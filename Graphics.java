@@ -1,4 +1,4 @@
-
+import javax.swing.*;
 public class Graphics extends JFrame{
     Graphics(){
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
