@@ -1,5 +1,6 @@
 public class CheckersRunner{
     public static void main(String[] args){
-        new Graphics();
+        System.out.println("hello");
+        //new Graphics();
     }
 }
