@@ -1,8 +1,5 @@
-import java.util.*;
-import java.awt.*;
-import java.swing.*;
 
-public class Graphics extends jFrame{
+public class Graphics extends JFrame{
     Graphics(){
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setSize(500,500);
